@@ -2,3 +2,66 @@
     --MAIN-FONT: 'Roboto', sans-serif;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* HEADER CSS CODE */
+
+header {
+    background-color: rgba(0, 0, 0, 0.750);
+    font-family: var(--MAIN-FONT);
+    font-size: 12px;
+}
+
+#img1 {
+    height: 22px;
+    width: 22px;
+}
+
+#img2 {
+    height: 16px;
+    width: 16px;
+}
+
+#headercontainer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    height: 44px;
+}
+
+a:link {
+    color: rgba(255, 255, 255, 0.750);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgba(255, 255, 255, 0.750);
+    text-decoration: none;
+}
+
+a:active {
+    color: rgba(255, 255, 255, 0.750);
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+/* MAIN CSS CODE */
+
+
+
+
+/* FOOTER CSS CODE */
+
+
+
